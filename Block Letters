@@ -1,0 +1,24 @@
+Write a Swift program called Initials.swift that displays the initials of your name in block letters.
+
+// Fun Fact: I love practicing mandarin Chinese. Ni Hao!
+
+let intials = """
+  RRRR        SSS
+  R    R     S   S
+  R    R     S 
+  RRRR        SSS
+  R R            S
+  R  R       S   S
+  R   R       SSS
+"""
+
+print(intials)
+
+OUTPUT:
+  RRRR        SSS
+  R    R     S   S
+  R    R     S 
+  RRRR        SSS
+  R R            S
+  R  R       S   S
+  R   R       SSS
