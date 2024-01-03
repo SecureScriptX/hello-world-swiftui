@@ -1,8 +1,32 @@
-# Ryan Stewart - InfoSec Researcher | Threat Intelligence Analyst | Developer |
+# Welcome to the iOS Developer Career Path
 
 👋 Hey, I'm Ryan. Excited to delve into Swift iOS, building the tools I need for my journey toward becoming a skilled iOS developer.
 
- **Showcasing Projects:**
+# Introduction to Swift
+
+[Swift](https://developer.apple.com/swift) is a robust and intuitive general-purpose programming language crafted by Apple, with development commencing in July 2010.
+
+Drawing inspiration from languages like Objective-C, Rust, Haskell, Ruby, Python, C#, and more, Swift boasts a concise yet expressive syntax, making it an ideal starting point for beginners and a seamless transition for experienced developers.
+
+Released in 2014, Swift was designed for creating applications across various platforms:
+
+- 📱 iOS
+- ⌚ watchOS
+- 🖥️ macOS
+- 📺 tvOS
+- 🐧 Linux
+
+Since its inception, numerous companies, including Uber and Slack, have integrated Swift into their tech stacks.
+
+Noteworthy adopters include:
+
+1. **Apple:** Naturally, Apple employs Swift for iOS app development.
+2. **Uber:** Swift plays a pivotal role in Uber's mobile app development.
+3. **Airbnb:** The iOS app at Airbnb is crafted using Swift.
+4. **LinkedIn:** Swift is the language of choice for LinkedIn's iOS app.
+5. **Slack:** The widely-used messaging app Slack is constructed with Swift for iOS.
+
+# Showcasing Projects:
 
 - **Web Application Analysis (OSWAP)**
   - Common areas of exploitation
@@ -39,3 +63,5 @@
 🤝 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/ryan-stewart-clt21)
 - [Medium](https://medium.com/@stewart.rj.b)
+
+Happy coding!
